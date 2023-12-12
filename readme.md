@@ -10,19 +10,16 @@ El contenido se organizará por categorías, y los usuarios podrán marcar el co
 
 ## Descripción general de la base de datos. Componentes y elementos asociados.
 
-Lorem ipsum
-
-### Tablas del proyecto.
-
-Encuentra una descripción de las tablas del proyecto en este [enlace](https://docs.google.com/spreadsheets/d/1R2dr7hLdMWAYvDuNZRHyTelu5uZD80-ggx85D5He9Tk/edit?usp=sharing)
+A continuación se hace una descripción general del proyecto, de los componentes utilizados, funciones y procedimientos establecidos. Al final de este documento pueden consultarse los links para documentos asociados (listado de tablas y vistas, y diagrama de entidad-relación).
 
 
-### Listado de vistas.
 
-Encuentra un listado de las vistas del proyecto este [enlace](https://docs.google.com/spreadsheets/d/14TvtThX46WDpn8dPibkn8I1o_VgiS8JUQiaiRBuUDLs/edit?usp=sharing)
+### Documentos asociados.
 
+- Encuentra una descripción de las **tablas del proyecto** en este [enlace](https://docs.google.com/spreadsheets/d/1R2dr7hLdMWAYvDuNZRHyTelu5uZD80-ggx85D5He9Tk/edit?usp=sharing).
 
-### Diagrama de relaciones.
+- Encuentra un listado de las **vistas del proyecto** en este [enlace](https://docs.google.com/spreadsheets/d/14TvtThX46WDpn8dPibkn8I1o_VgiS8JUQiaiRBuUDLs/edit?usp=sharing).
 
-El diagrama de relaciones de la base de datos esta publicado en el siguiente [enlace](https://docs.google.com/presentation/d/1aXLTd0W_sGhReLeerun7U3JQkcIQI7r3hdl-HBuWRQg/edit?usp=sharing)
+- El **diagrama de relaciones** de la base de datos esta publicado en el siguiente [enlace](https://docs.google.com/presentation/d/1aXLTd0W_sGhReLeerun7U3JQkcIQI7r3hdl-HBuWRQg/edit?usp=sharing).
+
 
