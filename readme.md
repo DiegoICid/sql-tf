@@ -10,4 +10,4 @@ Lorem ipsum
 
 ## Objetivos del proyecto
 
-Lorem ipsum
+Lorem ipsum2
